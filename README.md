@@ -1,6 +1,6 @@
 ![1_c](https://github.com/user-attachments/assets/b537c1be-4a1e-4f51-8f5e-3544b42a93ce)
     
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
     <h2 style="margin: 0;">Mazen Elfayoumi
     <div style="display: flex; align-items: center; gap: 50px;">
         <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
