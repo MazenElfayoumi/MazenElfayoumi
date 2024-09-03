@@ -11,21 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="flask" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-    </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
     </a>
@@ -41,6 +26,27 @@
     <a href="https://llama.meta.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f8d204f0-a715-4234-a66a-74fde1f07b06" alt="llama" width="40" height="40"/>
     </a>
+    <a href="https://groq.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/f8db8b0f-141e-43bb-b19d-b926f17788a5" alt="groq" width="40" height="40"/>
+    </a>
+    <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+        <img  src="https://github.com/user-attachments/assets/02bcc258-6dda-4a69-ab07-1d44fa5c44dd"alt="langchain" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="flask" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
     <a href="https://blog.google/technology/developers/google-gemma-2/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/15113398-311f-4f3d-9bea-4293af4c4cde" alt="gemini" width="40" height="40"/>
     </a>
@@ -55,12 +61,6 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-        <img  src="https://github.com/user-attachments/assets/02bcc258-6dda-4a69-ab07-1d44fa5c44dd"alt="langchain" width="40" height="40"/>
-    </a>
-    <a href="https://groq.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f8db8b0f-141e-43bb-b19d-b926f17788a5" alt="groq" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="gitbash" width="40" height="40"/>
