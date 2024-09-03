@@ -48,7 +48,7 @@
         <img src="https://github.com/user-attachments/assets/7e4cfced-ae42-4cf6-8d5b-c67dc19cb33e" alt="hostinger" width="40" height="40"/>
     </a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/71ff684a-eddb-4dc1-9e86-9c6aad37aecb" alt="apache" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
