@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/09ab37d4-60e8-422b-a845-edc2b421aa49)
+<img src="https://github.com/user-attachments/assets/09ab37d4-60e8-422b-a845-edc2b421aa49" alt="Professional Achievements Banner" style="width: 80%; max-width: 800px; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
