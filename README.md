@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://github.com/user-attachments/assets/09ab37d4-60e8-422b-a845-edc2b421aa49" alt="Professional Achievements Banner" style="width: 100%; max-width: 1280px; height: 480px; object-fit: cover;" />
-
+</p>
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
 <p align="left">
