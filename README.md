@@ -10,6 +10,7 @@
         <img src="https://github.com/user-attachments/assets/ef7e7ce0-9a78-40b9-a8ee-f40942df5d6f" alt="Gmail" height="30" width="40" />
     </a>
 </p>
+
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
