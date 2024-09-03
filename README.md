@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Mazen-Elfayoumi" />
 </p>
-<h2 align="center">Mazen Elfayoumi</h2>
+<h2 align="left">Mazen Elfayoumi</h2>
 <p align="left">
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
