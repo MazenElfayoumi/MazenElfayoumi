@@ -96,7 +96,7 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" height="25px"/>
     </a>
 </p>
-<h2 align="center">work experience:</h2>
+<h2 align="center">🏆 Professional Achievements:</h2>
 <p align="center">
     <a href="https://www.brainzx.ai/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/caaf75dc-dcc2-4ed7-9898-8ed763836a64" alt="python" width="40" height="40"/>
@@ -105,7 +105,7 @@
         <img src="https://github.com/user-attachments/assets/8fa2df9e-beb8-4602-99b7-28f66d7aa342" alt="python" width="40" height="40"/>
     </a>
 </p>
-<h2 align="center">🏆 My Stats:</h2>
+<h2 align="center">🌟 My Stats:</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=MazenElfayoumi&theme=transparent" />
