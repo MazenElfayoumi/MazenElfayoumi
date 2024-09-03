@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/09ab37d4-60e8-422b-a845-edc2b421aa49" alt="Professional Achievements Banner" style="width: 100%; max-width: 1280px; height: 400px; object-fit: cover;" />
+![1](https://github.com/user-attachments/assets/c97ed4cb-0270-40f8-8cb6-116982eb54b7)
 </p>
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
