@@ -101,5 +101,8 @@
     <a href="https://www.brainzx.ai/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/caaf75dc-dcc2-4ed7-9898-8ed763836a64" alt="python" width="40" height="40"/>
     </a>
+    <a href="https://mdcana.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/8fa2df9e-beb8-4602-99b7-28f66d7aa342" alt="python" width="40" height="40"/>
+    </a>
 </p>
 
