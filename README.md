@@ -1,6 +1,6 @@
 ![1_c](https://github.com/user-attachments/assets/b537c1be-4a1e-4f51-8f5e-3544b42a93ce)
     
-<p align="left" style="display: inline-flex; align-items: center; gap: 20px;">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
     <h2 style="margin: 0;">Mazen Elfayoumi</h2>
     <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://www.linkedin.com/in/mazen-elfayoumi-115a18269/" target="blank">
@@ -9,7 +9,7 @@
     <a href="mailto:mazenelfayoumy@gmail.com">
         <img src="https://github.com/user-attachments/assets/ef7e7ce0-9a78-40b9-a8ee-f40942df5d6f" alt="Gmail" height="30" width="40" />
     </a>
-</p>
+</div>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <p align="center">
