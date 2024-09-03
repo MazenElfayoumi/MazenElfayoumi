@@ -75,7 +75,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
     </a>
     <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Power_Automate_logo.svg" alt="powerautomate" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/b95b0641-60b8-4fbf-85d1-2ba94f1b7c54" alt="power automate" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/2048px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/>
