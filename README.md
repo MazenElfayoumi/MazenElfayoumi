@@ -57,7 +57,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/1685/1685775.png" alt="langchain" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/7ad22fb5-3d94-45e0-ab95-8663a98ca426" alt="langchain" width="40" height="40"/>
     </a>
     <a href="https://groq.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f8db8b0f-141e-43bb-b19d-b926f17788a5" alt="groq" width="40" height="40"/>
