@@ -1,19 +1,18 @@
 ![1_c](https://github.com/user-attachments/assets/b537c1be-4a1e-4f51-8f5e-3544b42a93ce)
     
-<h2 style="display: inline;">Mazen Elfayoumi</h2>
-<span style="display: inline; margin-left: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</span>
-<span style="display: inline; margin-left: 20px;">
-    <a href="https://www.linkedin.com/in/mazen-elfayoumi-115a18269/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</span>
-<span style="display: inline; margin-left: 20px;">
-    <a href="mailto:mazenelfayoumy@gmail.com">
-        <img src="https://github.com/user-attachments/assets/ef7e7ce0-9a78-40b9-a8ee-f40942df5d6f" alt="Gmail" height="30" width="40" />
-    </a>
-</span>
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+    <h2 style="margin: 0;">Mazen Elfayoumi
+    <div style="display: flex; align-items: center; gap: 50px;">
+        <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+        <a href="https://www.linkedin.com/in/mazen-elfayoumi-115a18269/" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="mailto:mazenelfayoumy@gmail.com">
+            <img src="https://github.com/user-attachments/assets/ef7e7ce0-9a78-40b9-a8ee-f40942df5d6f" alt="Gmail" height="30" width="40" />
+        </a>
+    </div></h2>
+</div>
+
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <p align="center">
