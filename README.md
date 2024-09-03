@@ -38,7 +38,7 @@
     <a href="https://openai.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/cad001a3-1082-4b3f-a7b3-eb1383214590" alt="openai" width="40" height="40"/>
     </a>
-    <a href="https://llama.perplexity.ai/" target="_blank" rel="noreferrer">
+    <a href="https://llama.meta.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f8d204f0-a715-4234-a66a-74fde1f07b06" alt="llama" width="40" height="40"/>
     </a>
     <a href="https://gemini.com/" target="_blank" rel="noreferrer">
