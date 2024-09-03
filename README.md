@@ -1,4 +1,4 @@
-<p align="left">
+![png-transparent-openai-chatgpt-logo](https://github.com/user-attachments/assets/a8748275-34c0-4a66-aa44-acba2a3aa2fd)<p align="left">
 <a href="https://linkedin.com/in/david-wagih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-wagih" height="30" width="40" /></a>
 </p>
 
@@ -36,7 +36,8 @@
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
     </a>
     <a href="https://openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/>
+        <img src="![png-transparent-openai-chatgpt-logo](https://github.com/user-attachments/assets/4e542748-07be-4533-9fb5-e501328ec290)
+" alt="openai" width="40" height="40"/>
     </a>
     <a href="https://llama.perplexity.ai/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/LLaMA_logo.svg" alt="llama" width="40" height="40"/>
