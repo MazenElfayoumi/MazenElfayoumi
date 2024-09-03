@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Mazen-Elfayoumi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-wagih" alt="david-wagih" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mazen-Elfayoumi" alt="Mazen-Elfayoumi" /></a> </p>
 
 - 🌱 I’m currently learning **System Design, Architecture and Devops.**
 
