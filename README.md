@@ -13,11 +13,15 @@
     </div></h1>
 </div>
 
-- 🌟 **Artificial Intelligence Student** at [Galala University](https://www.gu.edu.eg/), diving deep into AI and machine learning.
-- 🚀 **Passionate about Large Language Models**: Currently developing cutting-edge software harnessing their power.
-- 🧠 **Co-founder of brainzx**: Offering innovative AI solutions and working on exciting new projects—check out our websites in the [🏆 Professional Achievements](#professional-achievements) section.
-- 📄 **Upcoming Paper**: Working on diabetes prediction using various large language models—stay tuned for the source code!
-- 🌐 **Learning Full Stack Web Development**: Expanding skills and exploring new AI technologies.
+<div align="center">
+    <ul>
+        <li>🌟 **Artificial Intelligence Student** at <a href="https://www.gu.edu.eg/" target="_blank" rel="noreferrer">Galala University</a>, diving deep into AI and machine learning.</li>
+        <li>🚀 **Passionate about Large Language Models**: Currently developing cutting-edge software harnessing their power.</li>
+        <li>🧠 **Co-founder of Brainzx**: Offering innovative AI solutions and working on exciting new projects—check out our website in the <a href="#professional-achievements">🏆 Professional Achievements</a> section.</li>
+        <li>📄 **Upcoming Paper**: Working on diabetes prediction using various large language models—stay tuned for the source code!</li>
+        <li>🌐 **Learning Full Stack Web Development**: Expanding skills and exploring new AI technologies.</li>
+    </ul>
+</div>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <p align="center">
