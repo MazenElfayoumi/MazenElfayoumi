@@ -18,7 +18,7 @@
 </p>
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🛠️ Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="25px"/>
