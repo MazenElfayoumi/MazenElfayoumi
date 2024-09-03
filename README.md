@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Mazen-Elfayoumi" /> </p>
 
-- 🌱 I’m currently learning **System Design, Architecture and Devops.**
 
-- 📫 How to reach me **davidwagih62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
