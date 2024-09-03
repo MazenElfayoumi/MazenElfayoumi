@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm David Wagih</h1>
-<h3 align="center">An innovative Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
+<h3 align="center">An innovative AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-wagih&label=Profile%20views&color=0e75b6&style=flat" alt="david-wagih" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Mazen-Elfayoumi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-wagih" alt="david-wagih" /></a> </p>
 
