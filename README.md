@@ -41,11 +41,12 @@
     <a href="https://llama.perplexity.ai/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f8d204f0-a715-4234-a66a-74fde1f07b06" alt="llama" width="40" height="40"/>
     </a>
-    <a href="https://gemini.co" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gemini_logo.svg" alt="gemini" width="40" height="40"/>
+    <a href="https://gemini.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/gemini-logo.png" alt="gemini" width="40" height="40"/>
     </a>
     <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Hostinger_logo.png" alt="hostinger" width="40" height="40"/>
+        <img src="![gemma2](https://github.com/user-attachments/assets/98b86445-83e3-4d55-a641-7f7071c0d7ce)
+" alt="hostinger" width="40" height="40"/>
     </a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/>
