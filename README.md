@@ -1,3 +1,5 @@
+![1](https://github.com/user-attachments/assets/09ab37d4-60e8-422b-a845-edc2b421aa49)
+
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
 <p align="left">
