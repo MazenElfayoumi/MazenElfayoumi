@@ -1,9 +1,9 @@
 ![1_c](https://github.com/user-attachments/assets/b537c1be-4a1e-4f51-8f5e-3544b42a93ce)
     
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap;">
-    <h2 style="margin-right: 20px; margin-bottom: 0;">Mazen Elfayoumi</h2>
-    <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin-right: 20px;" />
-    <a href="https://www.linkedin.com/in/mazen-elfayoumi-115a18269/" target="blank" style="margin-right: 20px;">
+<p align="left" style="display: inline-flex; align-items: center; gap: 20px;">
+    <h2 style="margin: 0;">Mazen Elfayoumi</h2>
+    <img src="https://komarev.com/ghpvc/?username=Mazen-Elfayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/mazen-elfayoumi-115a18269/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="mailto:mazenelfayoumy@gmail.com">
