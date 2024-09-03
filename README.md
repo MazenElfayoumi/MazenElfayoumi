@@ -12,6 +12,7 @@
         </a>
     </div></h1>
 </div>
+
 - 🌟 **Artificial Intelligence Student** at [Galala University](https://www.gu.edu.eg/), diving deep into AI and machine learning.
 - 🚀 **Passionate about Large Language Models**: Currently developing cutting-edge software harnessing their power.
 - 🧠 **Co-founder of Brainzx**: Offering innovative AI solutions and working on exciting new projects—check out our website in the [🏆 Professional Achievements](#) section.
