@@ -105,5 +105,5 @@
         <img src="https://github.com/user-attachments/assets/8fa2df9e-beb8-4602-99b7-28f66d7aa342" alt="python" width="40" height="40"/>
     </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MazenElfayoumi=anuraghazra&hide=contribs,prs)
+
 
