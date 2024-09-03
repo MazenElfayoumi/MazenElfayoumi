@@ -41,7 +41,7 @@
     <a href="https://llama.meta.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f8d204f0-a715-4234-a66a-74fde1f07b06" alt="llama" width="40" height="40"/>
     </a>
-    <a href="https://gemini.com/" target="_blank" rel="noreferrer">
+    <a href="https://blog.google/technology/developers/google-gemma-2/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/15113398-311f-4f3d-9bea-4293af4c4cde" alt="gemini" width="40" height="40"/>
     </a>
     <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
