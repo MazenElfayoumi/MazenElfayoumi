@@ -98,8 +98,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen-Elfayoumi&show_icons=true&locale=en&layout=compact" alt="Mazen-Elfayoumi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-wagih&show_icons=true&locale=en" alt="david-wagih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-wagih&" alt="david-wagih" /></p>
