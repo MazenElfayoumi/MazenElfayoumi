@@ -1,6 +1,5 @@
-<p align="center">
-![1](https://github.com/user-attachments/assets/c97ed4cb-0270-40f8-8cb6-116982eb54b7)
-</p>
+![1](https://github.com/user-attachments/assets/5d6a06db-0121-4a26-81a0-d9db15860482)
+
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
 <p align="left">
