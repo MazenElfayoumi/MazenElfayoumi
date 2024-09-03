@@ -60,7 +60,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/1685/1685775.png" alt="langchain" width="40" height="40"/>
     </a>
     <a href="https://groq.com/" target="_blank" rel="noreferrer">
-        <img src="https://groq.com/wp-content/uploads/2021/03/groqlogo.svg" alt="groq" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/f8db8b0f-141e-43bb-b19d-b926f17788a5" alt="groq" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="gitbash" width="40" height="40"/>
