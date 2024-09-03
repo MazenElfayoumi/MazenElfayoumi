@@ -80,6 +80,9 @@
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/bc8244f6-c297-4760-86a6-7e8be9a579da" alt="excel" width="40" height="40"/>
     </a>
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
+    </a>
 </p>
 
 
