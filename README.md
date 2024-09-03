@@ -1,4 +1,5 @@
-![1](https://github.com/user-attachments/assets/5d6a06db-0121-4a26-81a0-d9db15860482)
+![1_c](https://github.com/user-attachments/assets/b537c1be-4a1e-4f51-8f5e-3544b42a93ce)
+
 
 <h1 align="center">Hi 👋, I'm Mazen Elfayoumi</h1>
 <h3 align="center">An innovative AI Engineer</h3>
