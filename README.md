@@ -39,7 +39,7 @@
         <img src="https://github.com/user-attachments/assets/cad001a3-1082-4b3f-a7b3-eb1383214590" alt="openai" width="40" height="40"/>
     </a>
     <a href="https://llama.perplexity.ai/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/LLaMA_logo.svg" alt="llama" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/f8d204f0-a715-4234-a66a-74fde1f07b06" alt="llama" width="40" height="40"/>
     </a>
     <a href="https://gemini.co" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gemini_logo.svg" alt="gemini" width="40" height="40"/>
