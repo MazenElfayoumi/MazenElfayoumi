@@ -38,6 +38,9 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="flask" width="40" height="40"/>
     </a>
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/103331907?s=200&v=4" alt="chroma db" width="40" height="40"/>
+    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
