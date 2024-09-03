@@ -1,4 +1,4 @@
-![png-transparent-openai-chatgpt-logo](https://github.com/user-attachments/assets/a8748275-34c0-4a66-aa44-acba2a3aa2fd)<p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/david-wagih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-wagih" height="30" width="40" /></a>
 </p>
 
