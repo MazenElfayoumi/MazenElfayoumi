@@ -45,8 +45,7 @@
         <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/gemini-logo.png" alt="gemini" width="40" height="40"/>
     </a>
     <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-        <img src="![gemma2](https://github.com/user-attachments/assets/98b86445-83e3-4d55-a641-7f7071c0d7ce)
-" alt="hostinger" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/98b86445-83e3-4d55-a641-7f7071c0d7ce" alt="hostinger" width="40" height="40"/>
     </a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/>
