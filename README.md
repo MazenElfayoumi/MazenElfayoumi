@@ -36,7 +36,7 @@
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
     </a>
     <a href="https://openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/openai-logo.png" alt="openai" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/cad001a3-1082-4b3f-a7b3-eb1383214590" alt="openai" width="40" height="40"/>
     </a>
     <a href="https://llama.perplexity.ai/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/LLaMA_logo.svg" alt="llama" width="40" height="40"/>
