@@ -15,8 +15,8 @@
 
 - 🌟 **Artificial Intelligence Student** at [Galala University](https://www.gu.edu.eg/), diving deep into AI and machine learning.
 - 🚀 **Passionate about Large Language Models**: Currently developing cutting-edge software harnessing their power.
-- 🧠 **Co-founder of Brainzx**: Offering innovative AI solutions and working on exciting new projects—check out our website in the [🏆 Professional Achievements](#professional-achievements) section.
-- 📄 **Upcoming Paper**: Working on diabetes prediction using various large language models—stay tuned for the source code!
+- 🧠 **Co-founder of Brainzx**: Offering innovative AI solutions and working on exciting new projects—check out our websites in the [🏆 Professional Achievements](#professional-achievements) section.
+- 📝 **Upcoming Paper**: Working on diabetes prediction using various large language models—stay tuned for the source code!
 - 🌐 **Learning Full Stack Web Development**: Expanding skills and exploring new AI technologies.
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
