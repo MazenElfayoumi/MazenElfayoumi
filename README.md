@@ -1,5 +1,5 @@
 
-    ![banner1](https://github.com/user-attachments/assets/4a6fd8c2-6d83-47fd-93c3-474d25575aa4)
+<img src ="D:/personal info/banner1.jpg" />
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <h1 style="margin: 0;">Mazen Elfayoumi
