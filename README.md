@@ -1,6 +1,7 @@
-![banner1](https://github.com/user-attachments/assets/8d510c99-9872-4f29-aff8-7b307877a2c8)
 
-<img src ="D:/personal info/banner1.jpg" />
+![banner 3](https://github.com/user-attachments/assets/269a427b-a8d7-40a0-ac76-ff77bb1194d3)
+
+
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
     <h1 style="margin: 0;">Mazen Elfayoumi
